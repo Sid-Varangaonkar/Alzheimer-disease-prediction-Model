@@ -8,17 +8,23 @@ The disease of Alzheimer's (AD) is a debilitating neurodegenerative disorder tha
 **Data flow**
 
 Data collection
-      ↓
+      ->
 Data Preprocessing
-      ↓
+      ->
 Data Handling
-      ↓
+      ->
 Applying Decision Tree Classifier
-      ↓
+      ->
 Fitting the data
-      ↓
+      ->
 Training the model
-      ↓
+      ->
 Analyzing the result
-      ↓
+      ->
+Displaying the result
+      ->
+Training the model
+      ->
+Analyzing the result
+      ->
 Displaying the result
